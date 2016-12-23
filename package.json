@@ -1,0 +1,19 @@
+{
+  "name": "echarts-demo",
+  "version": "1.0.0",
+  "description": "A tiny demo to draw front-end chats with Baidu ECharts",
+  "main": "app.js",
+  "repository": "git@github.com:Maples7/echarts-demo.git",
+  "author": "Maples7 <maples7@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "showdown makehtml -i source.md -o index.html && webpack"
+  },
+  "devDependencies": {
+    "showdown": "^1.5.4",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "echarts": "^3.3.2"
+  }
+}
