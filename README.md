@@ -1,2 +1,2 @@
 # echarts-demo
-A tiny demo to draw front-end chats with Baidu ECharts
+A tiny demo about drawing js charts with Baidu ECharts
